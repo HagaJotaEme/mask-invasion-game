@@ -12,7 +12,7 @@ Acesse o jogo por aqui: https://hagajotaeme.github.io/mask-invasion-game/
 
 <hr>
 
-<a href="https://high-rise-invasion.com/" target="_blank">Site oficial do anime</a>
+<a href="https://high-rise-invasion.com/" target="_blank">Site oficial do animação</a>
 <br>
 
 <hr>
