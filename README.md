@@ -7,7 +7,8 @@ Este é um jogo baseado na animação japonesa "High Rise Invasion", uma adapta�
 O jogo é baseado em HTML, CSS e JavaScript e segue um modelo de decisão, na qual em cada cenário o jogador
 deve tomar uma decisão para continuar avançando dentro do jogo.
 
-Acesse o jogo por aqui: https://hagajotaeme.github.io/mask-invasion-game/
+
+<a href="https://hagajotaeme.github.io/mask-invasion-game/">Acesse o jogo clicando aqui</a>
 
 
 <hr>
