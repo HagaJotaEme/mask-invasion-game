@@ -1,0 +1,112 @@
+@import url('https://fonts.googleapis.com/css2?family=Creepster&family=Source+Sans+3:wght@300;400&display=swap');
+
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	background-color: #000;
+}
+
+#container {
+	background-color: #565d60;
+	width: 800px;
+	height: 850px;
+	margin: 0 auto;
+	margin-top: 20px;
+	border-bottom: 40px;
+}
+
+header {
+	font-family: 'Source Sans 3', sans-serif;
+	padding: 10px;
+	text-align: center;
+	background-color: #1e1e1e;
+	color: #fff;
+	height: 25px;
+	line-height: 30px;
+}
+
+#container h1 {
+	font-family: 'creepster', cursive;
+	text-align: center;
+	font-size: 3rem;
+	margin: 25px 0;
+	color: #990f0f;
+}
+
+#titulo {
+	text-shadow: 2px 2px white;
+}
+
+#container p {
+	padding: 0 30px;
+	margin-bottom: 20px;
+	font-family: 'Source Sans 3', sans-serif;
+	text-align: center;
+	color: white;
+	font-weight: 200;
+}
+
+main {
+	height: 300px;
+}
+
+#texto2 {
+	margin-top: 30px;
+}
+
+img {
+	width: 600px;
+	height: 300px;
+	margin: 0 auto;
+}
+
+iframe {
+	width: 560px;
+	height: 315px;
+	margin: 0 auto;
+}
+
+.botoes {
+	border-radius: 5px;
+	display: flex;
+	justify-content: center;
+	position: static;
+	bottom: 400px;
+}
+
+button[id="botao1"],
+button[id="botao2"] {
+	padding: 10px;
+	margin: 20px;
+	border: none;
+	background-color: #1e1e1e;
+	color: #FFF;
+	cursor: pointer;
+	border-radius: 5px;
+	box-shadow: 5px 5px 10px #000000;
+}
+
+button:hover {
+	box-shadow: 5px 1px 10px #ffffff;
+}
+
+footer {
+	font-family: 'Source Sans 3', sans-serif;
+	text-align: center;
+	background-color: #1e1e1e;
+	color: #fff;
+	width: 800px;
+	height: 30px;
+	line-height: 30px;
+	margin-bottom: 20px;
+	margin: 0 auto;
+}
+
+a {
+	font-weight: bold;
+	color: #fff;
+	text-decoration: none;
+}
